@@ -1,0 +1,15 @@
+Login page test scenarios
+
+1 verify that enter valid username and password then login process work successfully
+and we login to the right account page or not
+
+2 verify that if we enter some wrong details like enter invalid username or password
+then error message is displayed properly or not
+
+3 verify that if we dont enter any details and press the login button then login process 
+is work or not & enter details message displayed or not
+
+4 verify close functionllity it closed from close button, esc and symbol or not
+
+5 verify that after unsuccessfull login then old details are displayed or not
+and after close login option then reopen that so old details are displayed or not
